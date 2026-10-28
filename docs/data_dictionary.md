@@ -1,4 +1,4 @@
-# Data Dictionary
+# Data Dictionary:
 
 Raw sheet `bike_buyers (Raw Data)`: 1,026 rows × 13 columns.
 Cleaned sheet `Working Sheet (Cleaned)`: 1,000 rows × 14 columns (adds `Age Range`).
