@@ -1,4 +1,4 @@
-# Dashboard Guide
+# Dashboard Guide:
 
 Workbook: [`excel/Motorbike_Sales_Project.xlsx`](../excel/Motorbike_Sales_Project.xlsx)
 
