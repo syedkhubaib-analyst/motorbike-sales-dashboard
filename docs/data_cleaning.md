@@ -1,4 +1,4 @@
-# Data Cleaning
+# Data Cleaning:
 
 Cleaning was done in Excel: `bike_buyers (Raw Data)` (untouched, kept as an audit trail) → `Working Sheet (Cleaned)`.
 
@@ -16,7 +16,7 @@ Cleaning was done in Excel: `bike_buyers (Raw Data)` (untouched, kept as an audi
 =IF(L2>54,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Young","Invalid")))
 ```
 
-## Checks on the cleaned sheet
+## Checks on the cleaned sheet:
 | Check | Result |
 |---|---|
 | Rows | 1,000 |
