@@ -70,5 +70,5 @@ The analysis is descriptive, so it shows association rather than cause. The data
 ## Skills demonstrated
 Data cleaning · Excel formulas · PivotTables & PivotCharts · Slicers · Dashboard design · Descriptive analysis · Business recommendations
 
-## Author
-**<Your Name>** · [LinkedIn](https://linkedin.com/in/your-profile)
+## About
+Built as a Data Analyst project to demonstrate the full workflow from raw data to a decision-ready dashboard.
