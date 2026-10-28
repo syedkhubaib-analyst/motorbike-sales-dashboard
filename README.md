@@ -10,7 +10,7 @@ An Excel data-analysis project: clean a raw customer dataset, summarise it with 
 - **Short commutes buy more:** 54.6 % at 0-1 miles and 58.6 % at 2-5 miles, falling to 29.7 % beyond 10 miles.
 - **Buyers earn more on average** in both genders (male 60,124 vs 56,208; female 55,774 vs 53,440), and men earn more than women in both groups.
 
-➡️ Full tables, recommendations and limitations: [`docs/insights.md`](docs/insights.md)
+Full tables, recommendations and limitations: [`docs/insights.md`](docs/insights.md)
 
 ## Business question:
 Which customer characteristics are associated with buying a bike, so marketing can target the right customers?
@@ -41,20 +41,19 @@ Field definitions: [`docs/data_dictionary.md`](docs/data_dictionary.md)
 ## Repository structure:
 ```
 motorbike-sales-dashboard/
-├── README.md
-├── LICENSE
+├── data/
+│   ├── bike_buyers_raw.csv             # export of the raw sheet 
+│   └── bike_buyers_cleaned.csv         # export of the cleaned sheet
+├── docs/
+│    ├── dashboard_guide.md
+│    ├── data_cleaning.md
+│    ├── data_dictionary.md
+│    └── insights.md
 ├── excel/
 │   └── Motorbike_Sales_Project.xlsx    # raw data, cleaned data, PivotTables, dashboard
-├── data/
-│   ├── bike_buyers_raw.csv             # export of the raw sheet (1,026 rows)
-│   └── bike_buyers_cleaned.csv         # export of the cleaned sheet (1,000 rows)
 ├── images/
 │   └── dashboard.jpg
-└── docs/
-    ├── data_dictionary.md
-    ├── data_cleaning.md
-    ├── dashboard_guide.md
-    └── insights.md
+└── README.md
 ```
 
 ## How to use:
