@@ -9,7 +9,7 @@ Workbook: [`excel/Motorbike_Sales_Project.xlsx`](../excel/Motorbike_Sales_Projec
 | `Pivot Table` | The three PivotTables behind the charts |
 | `Dashboard` | Three charts and four slicers |
 
-## PivotTables
+## PivotTables:
 | # | Values | Rows | Columns | Chart |
 |---|---|---|---|---|
 | 1 | Average of Income | Gender | Purchased Bike | Clustered column - *Average Income Per Purchase* |
@@ -18,10 +18,10 @@ Workbook: [`excel/Motorbike_Sales_Project.xlsx`](../excel/Motorbike_Sales_Projec
 
 All three PivotTables share one data source, so every slicer filters every chart.
 
-## Slicers
+## Slicers:
 Gender · Marital Status · Region · Education
 
-## How to use
+## How to use:
 1. Open the workbook in desktop Excel and go to the **Dashboard** sheet.
 2. Click a slicer button to filter (Ctrl+click for several); use the funnel icon to clear it.
 3. If numbers look out of date, use **Data → Refresh All**.
