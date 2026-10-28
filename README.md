@@ -1,4 +1,4 @@
-# 🏍️ Motorbike Sales Dashboard - Excel Data Analysis
+# 🏍️ Motorbike Sales Dashboard: Excel Data Analysis
 
 An Excel data-analysis project: clean a raw customer dataset, summarise it with **PivotTables**, and present the results in an interactive **dashboard with slicers** to find out **which customers buy a motorbike**.
 
